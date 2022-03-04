@@ -1,0 +1,1 @@
+Public repository with EDA and ML model developed for Krafthack by rainy_days
